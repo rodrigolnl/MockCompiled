@@ -1,0 +1,17 @@
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.csproj.AssemblyReference.cache
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.AssemblyInfoInputs.cache
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.AssemblyInfo.cs
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.csproj.CoreCompileInputs.cache
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\MockCompiled.exe
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\MockCompiled.deps.json
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\MockCompiled.runtimeconfig.json
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\MockCompiled.dll
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\MockCompiled.pdb
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\bin\Debug\net6.0\Mocker.dll
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.csproj.CopyComplete
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.dll
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\refint\MockCompiled.dll
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.pdb
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\MockCompiled.genruntimeconfig.cache
+C:\Projetos\MockCompiled\MockCompiled\MockCompiled\obj\Debug\net6.0\ref\MockCompiled.dll
